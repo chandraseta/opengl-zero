@@ -1,6 +1,4 @@
 ﻿  main.cpp
-LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Rionaldi Chandraseta\Dropbox\Works\Lab\GaIB\OpenGL-Zero\Debug\vc120.pdb'; linking object as if no debug info
+c:\users\rionaldi chandraseta\dropbox\works\lab\gaib\opengl-zero\zero\main.cpp(121): warning C4305: 'initializing': truncation from 'double' to 'float'
   Zero.vcxproj -> C:\Users\Rionaldi Chandraseta\Dropbox\Works\Lab\GaIB\OpenGL-Zero\Debug\Zero.exe
   Zero.vcxproj -> C:\Users\Rionaldi Chandraseta\Dropbox\Works\Lab\GaIB\OpenGL-Zero\Debug\Zero.pdb (Partial PDB)
